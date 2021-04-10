@@ -1,0 +1,20 @@
+{
+  "name": "mobx-with-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "mobx": "^5.15.4",
+    "mobx-react": "^6.2.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "description": "A simple example of using MobX with React Hooks via `mobx-react-lite`"
+}
